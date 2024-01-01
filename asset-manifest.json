@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/samueldavidbryan/ante-up.git/static/css/main.f855e6bc.css",
+    "main.js": "/samueldavidbryan/ante-up.git/static/js/main.2afb9211.js",
+    "static/js/787.9d9889be.chunk.js": "/samueldavidbryan/ante-up.git/static/js/787.9d9889be.chunk.js",
+    "static/media/logo.svg": "/samueldavidbryan/ante-up.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/samueldavidbryan/ante-up.git/index.html",
+    "main.f855e6bc.css.map": "/samueldavidbryan/ante-up.git/static/css/main.f855e6bc.css.map",
+    "main.2afb9211.js.map": "/samueldavidbryan/ante-up.git/static/js/main.2afb9211.js.map",
+    "787.9d9889be.chunk.js.map": "/samueldavidbryan/ante-up.git/static/js/787.9d9889be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2afb9211.js"
+  ]
+}
